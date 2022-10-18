@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/abad63e0-3e93-4bed-8792-595cc3f3a704.svg)](https://wakatime.com/@abad63e0-3e93-4bed-8792-595cc3f3a704)
 
 <!--
 **satriaa14/satriaa14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
