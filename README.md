@@ -10,5 +10,6 @@
 
 [![Agung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satriaa14&show_icons=true&count_private=true&line_height=40&theme=algolia&card_width=600)](https://github-readme-stats.vercel.app/api?username=satriaa14&show_icons=true&count_private=true&line_height=30&theme=algolia)
 
-[![Agung's Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=id_agungsatria&line_height=30&card_width=600&theme=algolia)](https://github-readme-stats.vercel.app/api/wakatime?username=id_agungsatria&line_height=40&card_width=600&theme=algolia)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=id_agungsatria&line_height=40&&theme=algolia" alt="drawing" width="600"/>
+
 </div>
