@@ -10,6 +10,8 @@
 
 [![Agung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satriaa14&show_icons=true&count_private=true&line_height=40&theme=algolia&card_width=600)](https://github-readme-stats.vercel.app/api?username=satriaa14&show_icons=true&count_private=true&line_height=30&theme=algolia)
 
+<a href="https://wakatime.com/@abad63e0-3e93-4bed-8792-595cc3f3a704">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=id_agungsatria&line_height=40&&theme=algolia" alt="drawing" width="600"/>
+</a>
 
 </div>
